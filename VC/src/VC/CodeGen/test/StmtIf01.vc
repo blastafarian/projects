@@ -1,0 +1,16 @@
+int main()
+{
+    int b = 5;
+    int a = 2;
+    if (a > b) { 
+        putStringLn("greater");
+    } else if (a == b) {
+        putStringLn("equal");
+    } else {
+        putStringLn("less");
+    }
+    return 0;
+}
+
+
+

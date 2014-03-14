@@ -1,0 +1,220 @@
+
+test1
+float
+
+test10
+===
+
+test11
+<===
+
+test12
+>=
+
+test13
+((
+
+test14
+]]]
+
+test15
+;
+
+test16
+c
+
+test17
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+test18
+_
+
+test19
+_a_b_1_c
+
+test2
+Float
+
+test20
+123abc
+
+test21
+1.1
+
+test22
+1.E5
+
+test23
+1.1e5
+
+test24
+1E+5
+
+test25
+1.Ee+5
+
+test26
+1.1.5E1
+
+test27
+1.1e+5
+
+test28
+1.0e.5/***/1.0
+
+test29
+1.0e-0.5
+
+test3
+12x12
+
+test30
+1.1e+   2
+
+test31
+1.1e+		2
+
+test32
+1.1e+/*comments*/2
+
+test33
+true
+false
+false_true
+
+test34
+"COMP3131\""
+
+test35
+"comp3131\"
+
+test36
+"x""
+
+test37
+"!\b\f\n\r\t\'\"\\"
+
+test38
+
+test39
+//
+
+test4
+continuebreak
+
+test40
+  100 // comments
+
+test41
+// /* comment */ 
+
+test42
+/* comment */ nested comment not allowed */
+
+test43
+/* comment /* this is ok */
+
+test44
+/****************** //
+ ******************
+ ******************/
+
+test45
+/* // */
+
+test46
+^
+
+test47
+/*   
+ *
+ *
+
+test48
+bool
+ean
+
+test49
+bool
+=
+=
+1
+1
+
+test5
+int100
+
+test50
+	x
+
+test51
+01	x
+
+test52
+01234	x
+
+test53
+x			x// 3 tabs
+
+test54
+
+100
+
+test55
+
+
+100;
+
+
+test56
++ +++--- 
+i
++
+   -||-
+  	abc	//  xx
+
+test57
+1111.1111.111...12...+++______
+i
+n
+t123
+///   /////
+
+test58
+void main() {
+int a[10];
+int i;
+int max = a[0];
+
+for (i = 1; i < 10; i=i+1) {
+  if (a[i] > max)
+    max = a[i];
+  }
+}
+
+test59
+// find the greatest common divisor of two integers
+int gcd (int i, int j) {
+  if (j == 0)
+    return i;
+  else 
+    return gcd (j, i - j * (i/j));
+}
+void main() {
+  int i = getInt();
+  int j = getInt();
+  putIntLn(gcd(i,j));
+}
+
+test6
+void_
+
+test7
+abc#100 // three tokens
+
+test8
+[
+]
+
+test9
+!=

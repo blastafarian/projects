@@ -1,0 +1,11 @@
+float f[2];
+
+int myself(float f[]) {
+    f[2] = 1+f[20];
+}
+
+int main() {
+    float f[5] = {7, 7, 1.0, - 0.0, 5.4 + 9.6};
+    return 0;
+}
+

@@ -1,0 +1,13 @@
+
+int i = 9 + 8;
+boolean b = true && true;
+float f = - 5.3 + 9.0 / 3.0 + 1.1;
+
+void hello() {
+    putStringLn("i am a string");
+}
+
+int main () {
+    return 0;
+}
+

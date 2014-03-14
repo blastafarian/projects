@@ -1,0 +1,9 @@
+void func(int paraArray[]) {
+}
+
+int main() {
+    int a[1] = {9};
+    func(a);
+    return 0;
+}
+

@@ -1,0 +1,5 @@
+int main() {
+        boolean b[3] = {true, false, true};
+        return 0;
+}
+

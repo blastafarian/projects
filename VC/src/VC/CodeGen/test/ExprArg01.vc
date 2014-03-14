@@ -1,0 +1,8 @@
+int givemefloat(float f) {
+}
+
+int main() {
+    givemefloat(9);
+    return 0;
+}
+

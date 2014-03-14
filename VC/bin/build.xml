@@ -1,0 +1,16 @@
+<project name="VCBuild" default="clean" basedir=".">
+	<description>
+		ANT build file for VC
+	</description>
+	
+	<property name="ROOT_REPO_DIR" location="/opt/apache/svn/repo" />
+	<property name="VC_REPO_URL" location="file://${ROOT_REPO_DIR}/VC" /> 
+	<property name="VC_WORKING_COPY" location="/tmp/VC" />
+	<property name="SRC_WORKING_COPY" location="/tmp/VC/src" />
+	<property name="BUILD_SCRIPTS_WORKING_COPY" location="/tmp/VC/bin" />
+	<property name="COMPILE_DIR" location="/tmp/VC/compiled" /> 
+
+	<target name="clean">
+		<delete dir="${VC_WORKING_COPY}" />
+	</target>
+</project>

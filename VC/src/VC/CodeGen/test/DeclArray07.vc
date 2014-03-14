@@ -1,0 +1,6 @@
+
+boolean tft[3] = {true, false, true};
+int main() {
+    return 0;
+}
+

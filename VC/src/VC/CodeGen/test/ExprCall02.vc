@@ -1,0 +1,9 @@
+int f(int a[]) {
+    a[0] = 99;
+}
+
+int main() {
+    int myarray[10] = {7, 6, 5, 4, 3, 2, 1, 0, 9, 8};
+    f(myarray);
+}
+

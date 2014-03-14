@@ -1,0 +1,280 @@
+----------------------------------
+--          exp01.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          exp02.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          exp03.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k01.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k02.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k03.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k04.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k05.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k06.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 2(15)..2(15): ")" expected here
+Compilation was unsuccessful.
+----------------------------------
+--          k07.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k08.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k09.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k10.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k11.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k12.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k13.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          k14.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t1.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t10.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t11.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t12.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t13.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t14.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t15.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t16.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t17.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t18.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t19.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 2(1)..2(1): type expected here
+Compilation was unsuccessful.
+----------------------------------
+--          t2.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t20.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 9(5)..9(7): illegal primary expression
+Compilation was unsuccessful.
+----------------------------------
+--          t21.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 5(3)..5(5): illegal primary expression
+Compilation was unsuccessful.
+----------------------------------
+--          t22.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 5(3)..5(3): ";" expected here
+Compilation was unsuccessful.
+----------------------------------
+--          t23.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 4(12)..4(12): ";" expected here
+Compilation was unsuccessful.
+----------------------------------
+--          t24.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 4(7)..4(11): identifier expected here
+Compilation was unsuccessful.
+----------------------------------
+--          t25.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 2(13)..2(13): ")" expected here
+Compilation was unsuccessful.
+----------------------------------
+--          t26.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 3(9)..3(11): "]" expected here
+Compilation was unsuccessful.
+----------------------------------
+--          t27.vc              --
+----------------------------------
+======= The VC compiler =======
+ERROR: 3(12)..3(12): ";" expected here
+Compilation was unsuccessful.
+----------------------------------
+--          t28.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t29.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t3.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t30.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t31.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t4.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t5.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t6.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t7.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t8.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          t9.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          var01.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          var02.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          var03.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          var04.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          var05.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.
+----------------------------------
+--          var06.vc              --
+----------------------------------
+======= The VC compiler =======
+Compilation was successful.

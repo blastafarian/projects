@@ -1,0 +1,11 @@
+int f() { return 1; }
+void g() { }
+int main() {
+int i = 1;
+if (i == 1)
+  f();
+else 
+  g();
+  return 0;
+}
+

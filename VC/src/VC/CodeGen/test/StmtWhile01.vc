@@ -1,0 +1,9 @@
+int main() {
+
+    int dexxa = 5;
+    while (dexxa > 0) {
+        dexxa = dexxa - 2;
+    }
+    return 0;
+}
+    

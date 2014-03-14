@@ -1,0 +1,4 @@
+int expressionOfInterest() {
+    0 / 0;
+}
+

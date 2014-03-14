@@ -1,0 +1,12 @@
+int main() {
+    int i;
+    for (i=0 ; i < 9 ; i=i+1) {
+        16;
+        if (i > 6) {
+            break;
+        }
+        17;
+    }
+    18;
+}
+

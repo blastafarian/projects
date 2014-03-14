@@ -1,0 +1,8 @@
+int main() 
+{
+    boolean b=true;
+    for ( ; b == true ; )
+        putIntLn(1);
+    return 0;
+}
+

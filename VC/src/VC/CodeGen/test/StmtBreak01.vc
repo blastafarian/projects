@@ -1,0 +1,11 @@
+int main() {
+    while (true) {
+        7;
+        if (true) {
+            break;
+        }
+        8;
+    }
+    9;
+}
+

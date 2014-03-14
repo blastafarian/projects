@@ -1,0 +1,58 @@
+
+---------- Program 
+visitProgram - Works for scalar variables only. Need to modify it to handle all array-related declarations and initialisations
+
+---------- Lists for denoting the null reference
+
+visitEmptyDeclList
+visitEmptyStmtList
+visitEmptyExprList
+visitEmptyParaList
+visitEmptyArgList
+
+--------- Declarations
+
+visitGlobalVarDecl - The current Emitter.java says that there is 'nothing to be done' (why? Is it true?)
+
+--------- Statements
+
+if
+while
+for
+break
+continue
+return 
+exprStmt
+EmptyCompStmt
+EmptyStmt
+
+--------- Expressions
+
+unaryExpr
+binaryExpr
+initExpr
+exprList
+ArrayExpr
+varExpr
+assignExpr
+emptyExpr
+
+------ Literals and identifiers
+
+ident
+operator
+
+------ Types
+
+void
+boolean
+int 
+float
+string
+array
+error
+
+------ Variables
+
+simpleVar
+

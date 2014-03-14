@@ -1,0 +1,14 @@
+int main() {
+    int i;
+    for (i = 1 ; i < 8 ; i = i * 2) {
+        5;
+        if (true) {
+            continue;
+        } else {
+            3;
+        }
+    }
+
+    return 0;
+}
+

@@ -1,0 +1,19 @@
+int i() {
+    return 8;
+    
+}
+
+float f() {
+    return 4.3;
+}
+
+boolean b() {
+    return true;
+}
+
+int main() {
+    if (b()) {
+        f() + i();
+    }
+    return 0;
+}

@@ -1,0 +1,18 @@
+int increment(int i) {
+    return i+1;
+}
+
+int multiply(int i, int j) {
+    return i * j;
+}
+
+int subtract(int i, int j) {
+    return i - j;
+}
+
+int main() {
+    // Find 9 - 3 * 2
+    subtract(9, multiply(3, increment(1)));
+    return 0;
+}
+

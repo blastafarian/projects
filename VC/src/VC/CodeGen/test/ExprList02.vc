@@ -1,0 +1,12 @@
+
+boolean bglobal[] = {true, false && false && false || ! true, true, false, true};
+
+void minime(boolean bpara[]) {
+    bpara[1] =!  bpara[1] ;
+}
+
+int main() {
+    boolean blocal[] = {true, false, true, false, true};
+    return 0;
+}
+

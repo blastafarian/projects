@@ -1,0 +1,4 @@
+void twothousandandsix() {
+    2 * 1000 + 6;
+}
+

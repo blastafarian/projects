@@ -1,0 +1,14 @@
+int main() {
+    while (true) {
+        9;
+        if (true) {
+            continue;
+        } else {
+            true;
+            false;
+        }
+    }
+
+    return 0;
+}
+

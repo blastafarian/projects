@@ -1,0 +1,8 @@
+void ff (boolean b[]) {
+}
+
+int main() {
+    boolean haha[]={true};
+    return 0;
+}
+

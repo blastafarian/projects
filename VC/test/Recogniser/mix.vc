@@ -1,0 +1,13 @@
+int x;
+
+void f () {
+}
+
+float bob = 4;
+
+/***/
+
+int desu() {
+    return 1;
+}
+

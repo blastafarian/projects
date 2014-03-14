@@ -1,0 +1,229 @@
+test1
+======= The VC compiler =======
+ERROR: 2(1)..2(1): identifier expected here
+Compilation was unsuccessful.
+test10
+======= The VC compiler =======
+ERROR: 1(1)..1(2): type expected here
+Compilation was unsuccessful.
+test11
+======= The VC compiler =======
+ERROR: 1(1)..1(2): type expected here
+Compilation was unsuccessful.
+test12
+======= The VC compiler =======
+ERROR: 1(1)..1(2): type expected here
+Compilation was unsuccessful.
+test13
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test14
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test15
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test16
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test17
+======= The VC compiler =======
+ERROR: 1(1)..1(51): type expected here
+Compilation was unsuccessful.
+test18
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test19
+======= The VC compiler =======
+ERROR: 1(1)..1(8): type expected here
+Compilation was unsuccessful.
+test2
+======= The VC compiler =======
+ERROR: 1(1)..1(5): type expected here
+Compilation was unsuccessful.
+test20
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test21
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test22
+======= The VC compiler =======
+ERROR: 1(1)..1(4): type expected here
+Compilation was unsuccessful.
+test23
+======= The VC compiler =======
+ERROR: 1(1)..1(5): type expected here
+Compilation was unsuccessful.
+test24
+======= The VC compiler =======
+ERROR: 1(1)..1(4): type expected here
+Compilation was unsuccessful.
+test25
+======= The VC compiler =======
+ERROR: 1(1)..1(2): type expected here
+Compilation was unsuccessful.
+test26
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test27
+======= The VC compiler =======
+ERROR: 1(1)..1(6): type expected here
+Compilation was unsuccessful.
+test28
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test29
+======= The VC compiler =======
+ERROR: 1(1)..1(6): type expected here
+Compilation was unsuccessful.
+test3
+======= The VC compiler =======
+ERROR: 1(1)..1(2): type expected here
+Compilation was unsuccessful.
+test30
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test31
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test32
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test33
+======= The VC compiler =======
+ERROR: 1(1)..1(4): type expected here
+Compilation was unsuccessful.
+test34
+======= The VC compiler =======
+ERROR: 1(1)..1(12): type expected here
+Compilation was unsuccessful.
+test35
+======= The VC compiler =======
+ERROR: 1(1)..1(1): comp3131": unterminated string
+ERROR: 1(1)..1(11): type expected here
+Compilation was unsuccessful.
+test36
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test37
+======= The VC compiler =======
+ERROR: 1(1)..1(19): type expected here
+Compilation was unsuccessful.
+test38
+======= The VC compiler =======
+Compilation was successful.
+test39
+======= The VC compiler =======
+Compilation was successful.
+test4
+======= The VC compiler =======
+ERROR: 1(1)..1(13): type expected here
+Compilation was unsuccessful.
+test40
+======= The VC compiler =======
+ERROR: 1(3)..1(5): type expected here
+Compilation was unsuccessful.
+test41
+======= The VC compiler =======
+Compilation was successful.
+test42
+======= The VC compiler =======
+ERROR: 1(15)..1(20): type expected here
+Compilation was unsuccessful.
+test43
+======= The VC compiler =======
+Compilation was successful.
+test44
+======= The VC compiler =======
+Compilation was successful.
+test45
+======= The VC compiler =======
+Compilation was successful.
+test46
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test47
+======= The VC compiler =======
+ERROR: 1(1)..1(1): : unterminated comment
+Compilation was unsuccessful.
+test48
+======= The VC compiler =======
+ERROR: 1(1)..1(4): type expected here
+Compilation was unsuccessful.
+test49
+======= The VC compiler =======
+ERROR: 1(1)..1(4): type expected here
+Compilation was unsuccessful.
+test5
+======= The VC compiler =======
+ERROR: 1(1)..1(6): type expected here
+Compilation was unsuccessful.
+test50
+======= The VC compiler =======
+ERROR: 1(9)..1(9): type expected here
+Compilation was unsuccessful.
+test51
+======= The VC compiler =======
+ERROR: 1(1)..1(2): type expected here
+Compilation was unsuccessful.
+test52
+======= The VC compiler =======
+ERROR: 1(1)..1(5): type expected here
+Compilation was unsuccessful.
+test53
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test54
+======= The VC compiler =======
+ERROR: 2(1)..2(3): type expected here
+Compilation was unsuccessful.
+test55
+======= The VC compiler =======
+ERROR: 3(1)..3(3): type expected here
+Compilation was unsuccessful.
+test56
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test57
+======= The VC compiler =======
+ERROR: 1(1)..1(9): type expected here
+Compilation was unsuccessful.
+test58
+======= The VC compiler =======
+Compilation was successful.
+test59
+======= The VC compiler =======
+Compilation was successful.
+test6
+======= The VC compiler =======
+ERROR: 1(1)..1(5): type expected here
+Compilation was unsuccessful.
+test7
+======= The VC compiler =======
+ERROR: 1(1)..1(3): type expected here
+Compilation was unsuccessful.
+test8
+======= The VC compiler =======
+ERROR: 1(1)..1(1): type expected here
+Compilation was unsuccessful.
+test9
+======= The VC compiler =======
+ERROR: 1(1)..1(2): type expected here
+Compilation was unsuccessful.

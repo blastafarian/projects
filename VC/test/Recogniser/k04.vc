@@ -1,0 +1,4 @@
+void illegal ()
+{
+    0 / 0;
+}

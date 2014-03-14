@@ -1,0 +1,7 @@
+for i in `ls test*`
+do
+    echo
+    echo $i
+    cat $i
+done    
+    

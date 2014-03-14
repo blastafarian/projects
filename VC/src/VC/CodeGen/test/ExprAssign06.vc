@@ -1,0 +1,8 @@
+int main () {
+    int a[1] = {11};
+    int b[1] = {22};
+    a[0] = b[0];
+    return 0;
+}
+
+

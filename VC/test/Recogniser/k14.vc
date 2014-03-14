@@ -1,0 +1,9 @@
+boolean toBeOrNotToBe() {
+    boolean b;
+    boolean notb;
+    boolean thatIsTheQuestion;
+    if (b) 
+        if (notb)
+            thatIsTheQuestion;
+}
+
