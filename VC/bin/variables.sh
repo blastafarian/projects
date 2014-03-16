@@ -3,12 +3,13 @@
 
 echo "Setting environment variables"
 
-export ROOT_REPO_DIR=/opt/apache/svn/repo
-export VC_REPO_URL=file://${ROOT_REPO_DIR}/VC
+export GIT_REPO_ALIAS=projects
+export GIT_REPO_URL=git@github.com:blastafarian/projects.git
+export GIT_BRANCH_NAME=master
 
 export VC_WORKING_COPY=/tmp/VC
-export SRC_WORKING_COPY=/tmp/VC/src
-export BUILD_SCRIPTS_WORKING_COPY=/tmp/VC/bin
+export SRC_WORKING_COPY=/tmp/VC/VC/src
+export BUILD_SCRIPTS_WORKING_COPY=/tmp/VC/VC/bin
 
-export COMPILE_DIR=/tmp/VC/compiled
+export COMPILE_DIR=/tmp/VC/VC/compiled
 
